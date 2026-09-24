@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# git-sandbox (main, updated)
 # git-sandbox (main)
 =======
 # git-sandbox (branch A)
