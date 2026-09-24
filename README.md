@@ -1,4 +1,4 @@
-# git-sandbox
+# git-sandbox (branch A)
 A practice repo for Git and GitHub workflows.
 
 ## Usage
