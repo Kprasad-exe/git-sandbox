@@ -1,8 +1,7 @@
 # git-sandbox (main, updated)
 # git-sandbox (main)
-=======
 # git-sandbox (branch A)
->>>>>>> feature/title-a
+feature/title-a
 A practice repo for Git and GitHub workflows.
 
 ## Usage
